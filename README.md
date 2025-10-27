@@ -27,7 +27,7 @@ The industrial process for making foam slippers involves three key steps under h
 - High energy consumption.
 - Limited potential for customization.
 
-![插入调研ppt截图]()
+![调研ppt](images/1.jpg)
 
 ## Our Reinterpretation: Two Bio-Foaming Paths
 
@@ -54,7 +54,7 @@ The industrial process for making foam slippers involves three key steps under h
     3.  Allow the dough to proof (ferment and rise), filling the mold's volume.
     4.  Bake or dry the dough to set its expanded shape.（BREADDDD SLIPPERS??!）
  
-![插入我们课上自己画的图片]()
+![](images/2.jpg)
 
  
 ## Process
@@ -62,11 +62,11 @@ The industrial process for making foam slippers involves three key steps under h
 ### prototyping
 We attempted to create a prototype of a "seed slipper" using some waste materials. We made the bottom surface in the shape of a slipper and simulated the positions where plants sprout on it; we fixed it with a transparent mold on the top and added a grid at the bottom to secure the seeds.
 
-![草模拖鞋]()
+![草模拖鞋](images/3.jpg)
 
-![2]()
+![2](images/4.jpg)
 
-![3]()
+![3](images/5.jpg)
 
 Our expected design is to replace the "downward pressure of the mold" with the "outward supporting force of the seed", and to substitute the "mold" with a "container that shapes the seedling of the seed", while omitting the high-temperature step.
 The key point is that the slippers produced through this process are basically impossible to wear directly... In this project, what we pursue is not a "100% reproduction of the functions and manufacturing techniques of the product", but to understand the elements involved and then innovatively propose some seemingly impossible alternative solutions. We sincerely hope that this still meets the class requirements.
