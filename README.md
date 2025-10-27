@@ -57,8 +57,21 @@ The industrial process for making foam slippers involves three key steps under h
 ![插入我们课上自己画的图片]()
 
  
-## Process & Documentation
+## Process
 
+### prototyping
+We attempted to create a prototype of a "seed slipper" using some waste materials. We made the bottom surface in the shape of a slipper and simulated the positions where plants sprout on it; we fixed it with a transparent mold on the top and added a grid at the bottom to secure the seeds.
+![草模拖鞋]()
+![2]()
+![3]()
+Our expected design is to replace the "downward pressure of the mold" with the "outward supporting force of the seed", and to substitute the "mold" with a "container that shapes the seedling of the seed", while omitting the high-temperature step.
+The key point is that the slippers produced through this process are basically impossible to wear directly... In this project, what we pursue is not a "100% reproduction of the functions and manufacturing techniques of the product", but to understand the elements involved and then innovatively propose some seemingly impossible alternative solutions. We sincerely hope that this still meets the class requirements.
+From the perspective of plant growth, when they wither, perhaps a pair of somewhat sturdy plant-shaped slippers can be formed... This requires experimentation.
+
+I conducted some experiments. It can be seen that I only molded the shape of the sole part of the shoes but did not yet make the upper part of the slippers that covers the foot. Green beans（绿豆） and chia seeds were respectively cultivated on the two surfaces of the sole. Since chia seeds are an invasive species in China, they were deactivated as food - but unfortunately, they still germinated. This is the germination situation of the two plants three days later. I will bring them to class.
+!种出来的图片]()
+!种出来的图片]()
+!种出来的图片]()
 
 ## Reflection & Insights
 
@@ -83,6 +96,4 @@ The industrial process for making foam slippers involves three key steps under h
 - Li Luoqi
 - Hu Peiyuan
 
----
-**Course:** [Your Course Name Here]
-**Date:** [Project Date]
+
