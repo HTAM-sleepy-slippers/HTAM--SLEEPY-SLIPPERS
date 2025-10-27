@@ -74,12 +74,13 @@ From the perspective of plant growth, when they wither, perhaps a pair of somewh
 
 I conducted some experiments. It can be seen that I only molded the shape of the sole part of the shoes but did not yet make the upper part of the slippers that covers the foot. Green beans（绿豆） and chia seeds were respectively cultivated on the two surfaces of the sole. Since chia seeds are an invasive species in China, they were deactivated as food - but unfortunately, they still germinated. This is the germination situation of the two plants three days later. I will bring them to class.
 
-![种出来的图片]()
+![种出来的图片](images/6.jpg)
 
-![种出来的图片]()
+![种出来的图片](images/7.jpg)
 
-![种出来的图片]()
+![种出来的图片](images/9.jpg)
 
+![种出来的图片](images/8.jpg)
 ## Reflection & Insights
 
 ### Advantages
