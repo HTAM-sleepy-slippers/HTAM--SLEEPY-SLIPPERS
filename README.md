@@ -83,7 +83,9 @@ I conducted some experiments. It can be seen that I only molded the shape of the
 ![种出来的图片](images/8.jpg)
 
 ### Optimize and iterate
-We use existing technology to create a custom foot model using plaster. Then, seeds are sown on the surface of the foot model, allowing them to germinate and form interconnected mycelium. Simultaneously, we can use fermented black bean mycelium for shaping. Once the mycelium has fully grown, a pair of custom-made slippers that fit the shape of the foot can be produced.
+We use existing technology to create a custom foot model using plaster. Then, seeds are sown on the surface of the foot model, allowing seeds to make tosprout on the surface of thefoot model to form an
+interconnected surface. Simultaneously, tempeh
+fungus mycelium can alsobe used for shaping.. Once the mycelium has fully grown, a pair of custom-made slippers that fit the shape of the foot can be produced.
 
 ![习沙威大作](images/11.png)
 
