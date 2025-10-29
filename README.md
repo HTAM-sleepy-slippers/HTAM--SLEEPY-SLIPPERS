@@ -81,6 +81,16 @@ I conducted some experiments. It can be seen that I only molded the shape of the
 ![种出来的图片](images/9.jpg)
 
 ![种出来的图片](images/8.jpg)
+
+### Optimize and iterate
+We use existing technology to create a custom foot model using plaster. Then, seeds are sown on the surface of the foot model, allowing them to germinate and form interconnected mycelium. Simultaneously, we can use fermented black bean mycelium for shaping. Once the mycelium has fully grown, a pair of custom-made slippers that fit the shape of the foot can be produced.
+
+![习沙威大作](images/11.png)
+
+## The final poster
+
+![海报](images/10.png)
+
 ## Reflection & Insights
 
 ### Advantages
