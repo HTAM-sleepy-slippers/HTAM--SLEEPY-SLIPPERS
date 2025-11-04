@@ -43,7 +43,7 @@ The industrial process for making foam slippers involves three key steps under h
     4.  The growing seeds displace the gel, creating a dense, foamed structure.
 
      
-### Path 2: Dough Fermentation Foaming（no prototype yet）
+### Path 2: Dough Fermentation Foaming（this path is abandoned now）
 
 **Concept:** Utilizing the gas produced by yeast fermentation to cause dough to rise and expand within a mold, mimicking the foaming process.
 
