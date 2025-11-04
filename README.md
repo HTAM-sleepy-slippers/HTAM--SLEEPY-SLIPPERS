@@ -164,7 +164,7 @@ Meanwhile, to all those who have been following this project and have read this 
 ## Short-term Action Plan 
 1. Material Composite Experiment (Mycelium + Seeds) Materials Lab + Team
 2. User Testing and Feedback Collection Design School / Community Workshop
-3. Participate in Bio-design Exhibition Co-curators / Design Week
+3. Participate in Bio-design competition
    
 ## Team Members
 - Zhou Yifan
