@@ -1,4 +1,5 @@
-# HTAM--SLEEPY-SLIPPERS: FROM MASS TO PERSONAL PRODUCTION
+# HTAM--SLEEPY-SLIPPERS: 
+# FROM MASS TO PERSONAL PRODUCTION
 
 HTAM stands for How Things Are Made, a course offered by the College of Design and Innovation at Tongji University. In this course, we learn various manufacturing techniques. 
 This project is one of the course assignments, exploring how to optimize mass production techniques so that they can be used in small-scale/personalized settings.
@@ -102,6 +103,12 @@ interconnected surface. Simultaneously, tempeh
 fungus mycelium can alsobe used for shaping.. Once the mycelium has fully grown, a pair of custom-made slippers that fit the shape of the foot can be produced.
 
 ![习沙威大作](images/11.png)
+
+### Some technical checkpoints
+When making the 绿豆 and chia seed insoles, the recommended amount of seeds to use: cover the bottom of the mold, about 1-2 layers; at the same time, the seeds need to be soaked for 12 hours in advance and this process can be completed directly in the mold. After soaking, the chia seeds will form a paste-like gel, which is easy to stick to the bottom of the container. During the seed germination process, placing it in a dark place can make its root system and stems thicker. After 3 days of being in the dark, expose it to sunlight, and the 绿豆 and chia seeds will grow green leaves and sprouts.
+
+During the process of making tempeh, make sure you follow the ratio specified on the packaging of the fungus powder. Different brands of fungus powder have different concentrations and growth characteristics. I used 500 grams of beans and 5 grams of fungus powder, along with a growth temperature of 35 to 40 degrees Celsius. Also, remember to cook it thoroughly.
+
 
 ## The final poster
 
