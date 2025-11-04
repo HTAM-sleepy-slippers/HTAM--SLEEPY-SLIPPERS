@@ -120,6 +120,8 @@ fungus mycelium can alsobe used for shaping.. Once the mycelium has fully grown,
 6. Some people mentioned that if the project were to be implemented, we could explore and optimize its comfort.
 7. People placed great importance on the project's feasibility, with many curious about its wearability and durability.
 8. People liked biomaterials, finding them particularly environmentally friendly, but hoped we could find more suitable alternatives, such as composite biomaterials.
+   ![makerfaire](images/MF7.jpg)
+   ![makerfaire](images/MF9.jpg)
    
 ## Team Members
 - Zhou Yifan
