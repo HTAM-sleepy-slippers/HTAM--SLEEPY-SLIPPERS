@@ -159,7 +159,7 @@ Objective: To achieve a truly closed-loop design "from nature and back to nature
 5. FabLab / Maker Space Network collaboration: Launch open collaborative projects, inviting community members to co-experiment and iteratively refine design and manufacturing processes.
 6. Footwear or home brands (sustainable direction) collaboration content: Explore the application of biomolding technology in limited edition products or concept products to promote industry innovation.
 
-##Short-term Action Plan 
+## Short-term Action Plan 
 1. Material Composite Experiment (Mycelium + Seeds) Materials Lab + Team
 2. 3D Printed Biodegradable Mold Development FabLab + Digital Designer
 3. User Testing and Feedback Collection Design School / Community Workshop
