@@ -1,7 +1,9 @@
 # HTAM--SLEEPY-SLIPPERS: FROM MASS TO PERSONAL PRODUCTION
-ASSIGNMENT 3
 
-#How might we reinterpret foaming slippers using living biological materials in natural environments?
+HTAM stands for How Things Are Made, a course offered by the College of Design and Innovation at Tongji University. In this course, we learn various manufacturing techniques. 
+This project is one of the course assignments, exploring how to optimize mass production techniques so that they can be used in small-scale/personalized settings.
+
+Our research topic is **How might we reinterpret foaming slippers using living biological materials in natural environments?**
 
 
 ## Project Overview
