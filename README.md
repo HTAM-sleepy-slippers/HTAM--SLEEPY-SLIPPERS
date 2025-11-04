@@ -120,10 +120,6 @@ fungus mycelium can alsobe used for shaping.. Once the mycelium has fully grown,
  **Structural Integrity:** The bio-materials lack the strength and durability of industrial polymers.
  **Control:** Managing humidity for seeds and temperature for dough is crucial and can be unpredictable.
 
-### Future Possibilities
- Exploring composite materials (e.g., mycelium with seeds).
- Using digital fabrication to create molds that guide growth patterns.
- Testing other natural expanding materials like sponges or moss.
 
 ## Feedback we received at Maker Faire 2025
 1. Some people, after learning about our project, felt it resembled Kenya Hara's concept of using alternative technologies to interpret existing designs, as described in *Designing Design*.
