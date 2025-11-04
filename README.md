@@ -135,6 +135,35 @@ fungus mycelium can alsobe used for shaping.. Once the mycelium has fully grown,
 8. People liked biomaterials, finding them particularly environmentally friendly, but hoped we could find more suitable alternatives, such as composite biomaterials.
    ![makerfaire](images/MF7.jpg)
    ![makerfaire](images/MF9.jpg)
+
+# Future Development Direction
+1. Material Optimization and Composites Research: Integrating diverse biomaterials (e.g., mycelium + seeds, alginate + plant fibers) to enhance structural strength and durability.
+Objective: To develop a "biobubble" composite material that is closer to wearable performance.
+Experimental direction: Test the influence of different proportions, laminating methods, drying/curing processes on material properties.
+
+2. Growth guidance and morphological control research direction: Using digital design and manufacturing technology (such as parametric modeling, 3D printing mold) to accurately guide the growth path of plants or mycelium.
+Objective: Achieve more complex structural molding and personalized customization.
+Tools: Rhino + Grasshopper, and bio-printing platforms (e.g., BioBricks).
+
+3. User experience and comfort research Research direction: Test the adaptability, breathability and anti-slip of different materials to the skin.
+Objective: To enhance the practicality and comfort of the product while maintaining the ecological concept.
+
+4. Life cycle and degradation path design research direction: Systematic study of the whole life cycle of products from "growth" to "degradation", including composting conditions, degradation time, soil impact, etc.
+Objective: To achieve a truly closed-loop design "from nature and back to nature".
+
+# Possible partners 
+1. Material science research institutions, such as university material schools and biomaterial laboratories. Cooperation content: jointly develop bio-composites, conduct mechanical property tests and component analysis.
+2. Agricultural or botanical research team collaboration: screen plant varieties suitable for rapid prototyping and controlled growth, and optimize germination environment.
+3. Cooperation content of mycelium material development company: introduce mature mycelium molding technology, combine with seed germination mechanism, and develop new mixed materials.
+4. Sustainable design platform or exhibition cooperation content: The project will be exhibited and promoted as a sustainable design case, attracting public and industrial attention.
+5. FabLab / Maker Space Network collaboration: Launch open collaborative projects, inviting community members to co-experiment and iteratively refine design and manufacturing processes.
+6. Footwear or home brands (sustainable direction) collaboration content: Explore the application of biomolding technology in limited edition products or concept products to promote industry innovation.
+
+##Short-term Action Plan 
+1. Material Composite Experiment (Mycelium + Seeds) Materials Lab + Team
+2. 3D Printed Biodegradable Mold Development FabLab + Digital Designer
+3. User Testing and Feedback Collection Design School / Community Workshop
+4. Participate in Bio-design Exhibition Co-curators / Design Week
    
 ## Team Members
 - Zhou Yifan
