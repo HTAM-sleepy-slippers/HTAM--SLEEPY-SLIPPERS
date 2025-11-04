@@ -135,7 +135,7 @@ fungus mycelium can alsobe used for shaping.. Once the mycelium has fully grown,
    ![makerfaire](images/MF7.jpg)
    ![makerfaire](images/MF9.jpg)
 
-# Future Development Direction
+# Future Direction Statement
 1. Material Optimization and Composites Research: Integrating diverse biomaterials (e.g., mycelium + seeds, alginate + plant fibers) to enhance structural strength and durability.
 Objective: To develop a "biobubble" composite material that is closer to wearable performance.
 Experimental direction: Test the influence of different proportions, laminating methods, drying/curing processes on material properties.
@@ -150,13 +150,16 @@ Objective: To enhance the practicality and comfort of the product while maintain
 4. Life cycle and degradation path design research direction: Systematic study of the whole life cycle of products from "growth" to "degradation", including composting conditions, degradation time, soil impact, etc.
 Objective: To achieve a truly closed-loop design "from nature and back to nature".
 
-# Possible partners 
+# Possible evolutions and collaborations 
 1. Material science research institutions, such as university material schools and biomaterial laboratories. Cooperation content: jointly develop bio-composites, conduct mechanical property tests and component analysis.
 2. Agricultural or botanical research team collaboration: screen plant varieties suitable for rapid prototyping and controlled growth, and optimize germination environment.
 3. Cooperation content of mycelium material development company: introduce mature mycelium molding technology, combine with seed germination mechanism, and develop new mixed materials.
 4. Sustainable design platform or exhibition cooperation content: The project will be exhibited and promoted as a sustainable design case, attracting public and industrial attention.
 5. FabLab / Maker Space Network collaboration: Launch open collaborative projects, inviting community members to co-experiment and iteratively refine design and manufacturing processes.
 6. Footwear or home brands (sustainable direction) collaboration content: Explore the application of biomolding technology in limited edition products or concept products to promote industry innovation.
+   
+Meanwhile, to all those who have been following this project and have read this document - we are extremely grateful for your support and suggestions. If you wish to delve further into the project of creating wearable slippers using biological materials and seed growth, or to conduct further research on improving the industrial process of compression molding through composite biological materials, please refer to all our current somewhat rudimentary research results and feel free to contact us at any time.
+
 
 ## Short-term Action Plan 
 1. Material Composite Experiment (Mycelium + Seeds) Materials Lab + Team
