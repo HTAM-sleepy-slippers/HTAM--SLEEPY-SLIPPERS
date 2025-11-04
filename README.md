@@ -111,6 +111,16 @@ fungus mycelium can alsobe used for shaping.. Once the mycelium has fully grown,
  Using digital fabrication to create molds that guide growth patterns.
  Testing other natural expanding materials like sponges or moss.
 
+### Feedback we received at Maker Faire 2025
+1. Some people, after learning about our project, felt it resembled Kenya Hara's concept of using alternative technologies to interpret existing designs, as described in *Designing Design*.
+2. Many people were concerned about whether the slippers we made would be wearable.
+3. Some people found our project concept interesting and eye-catching.
+4. Some people were curious about the types of plants we used.
+5. A significant number of people were excited upon seeing the loofah（sigua） slippers: "Sigua!"
+6. Some people mentioned that if the project were to be implemented, we could explore and optimize its comfort.
+7. People placed great importance on the project's feasibility, with many curious about its wearability and durability.
+8. People liked biomaterials, finding them particularly environmentally friendly, but hoped we could find more suitable alternatives, such as composite biomaterials.
+   
 ## Team Members
 - Zhou Yifan
 - Li Luoqi
