@@ -92,8 +92,7 @@ Tempeh does have a strong shaping effect and the mycelium growth is also very go
 We made another attempt, and this is the version I think works the best so far: We chose a large sigua net, then trimmed it, removed the seeds inside, and cut it into the shape of a slipper - placing a cushion inside and it looks like a slipper that can be worn directly.
 The morning glory has a minor issue: if using the ready-made morning glory material, it cannot achieve the "foaming" effect, and it is also difficult to ensure that the size fits properly. Therefore, we have envisioned a workflow: first, put a mold on the growing morning glory to allow it to grow inside the mold - when the morning glory becomes a morning glory net, it might be able to take on the shape we desire, matching the personalized shape of the feet.
 
-![sigua](images/loofah2.jpg)
-![sigua](images/loofah1.jpg)
+![sigua](images/68dbd2bf5e8a890fb1bcfa57eda909dd.jpg)
 
 ### Optimize and iterate
 We create a custom foot model using plaster on the current progress. Then, seeds are sown on the surface of the foot model, allowing seeds to make tosprout on the surface of thefoot model to form an
