@@ -1,4 +1,4 @@
-# HTAM--SLEEPY-SLIPPERS
+# HTAM--SLEEPY-SLIPPERS: FROM MASS TO PERSONAL PRODUCTION
 ASSIGNMENT 3
 
 #How might we reinterpret foaming slippers using living biological materials in natural environments?
